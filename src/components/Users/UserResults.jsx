@@ -1,5 +1,5 @@
 import React from 'react'
-import { useContext } from 'react'
+import {  useContext } from 'react'
 import Spinner from '../layouts/Spinner'
 import UserItem from './UserItem'
 import GithubContext from '../../context/github/GithubContext'
